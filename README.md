@@ -15,3 +15,18 @@ an example:
 ```bash
 ls .. ; cat test.txt ; help
 ```
+Output:
+```bash
+=== ls .. ===
+pyshell
+apps
+config
+=== cat test.txt ===
+Hello world
+
+=== help ===
+ls - list files
+cat - display file content
+cd - change directory
+help - this message
+```
